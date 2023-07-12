@@ -3,28 +3,26 @@
   <img width="300" alt="Graphcore logo" src="https://user-images.githubusercontent.com/81682248/226963440-9cae0ac4-ebf5-407a-9870-5679e434cada.png">
 </picture>
 
-# [Model title]
+# Flan-T5
 
-[Insert an image, for example:]
-<img width="500" alt="Waveform" src="https://github.com/graphcore/whisper/assets/81682248/5f21338f-5358-4686-97cc-1f321405607f">
+<p align="center"><img width="500" alt="Flan" src="flan-t5.png.webp"></p>
 
-[Short description of notebook]
-Whisper is a versatile speech recognition model that can transcribe speech as well as perform multi-lingual translation and recognition tasks. It was trained on diverse datasets to give human-level speech recognition performance without the need for fine-tuning.
+[Short description of model]
+Flan-T5 is
 
 Graphcore's IPU (Intelligence Processing Unit) is a completely new kind of massively parallel processor to accelerate machine intelligence. Developers can access advanced, cost-efficient IPU compute on-demand in the cloud for building, fine-tuning and deploying AI models such as Whisper.
 
 
-## [Model] notebooks powered by IPUs
+## Flan-T5 notebooks powered by IPUs
 
-| Notebook | Framework | Type | Try for Free 
+| Notebook | Framework | Type | Try for Free
 | ------------- | ------------- | ------------- | ------------- |
 | [Notebook title] | Hugging Face, PyTorch, TensorFlow | Training, Fine-tuning, Inference | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://ipu.dev/RxNoMC)
 
-[Description of notebook, for example]
-In this Paperspace Gradient notebook, we demonstrate using Whisper Tiny for speech recognition and transcription on the IPU. We use Optimum Graphcore - a new open-source library and toolkit that enables developers to access IPU-optimized models certified by Hugging Face. Only a few lines of code are needed to get this state-of-the-art automated speech recognition model running on IPUs. 
+The [] notebook demonstrates
 
 
-## [Model] resources
+## Flan-T5 resources
 
 * [GitHub Code](https://github.com/graphcore/Gradient-HuggingFace/tree/main/early-access/whisper)
 * [Hugging Face Model](https://huggingface.co/Graphcore/whisper-tiny-ipu)
