@@ -3,9 +3,11 @@
   <img width="300" alt="Graphcore logo" src="https://user-images.githubusercontent.com/81682248/226963440-9cae0ac4-ebf5-407a-9870-5679e434cada.png">
 </picture>
 
-# Flan-T5
+# Flan-T5 on IPUs
 
-<p align="center"><img width="500" alt="Flan" src="flan-t5.png.webp"></p>
+<p align="center"><img width="500" alt="Flan" src=""></p>
+
+![Flan-T5 header](flan-t5.png.webp)
 
 [Short description of model]
 Flan-T5 is
