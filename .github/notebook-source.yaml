@@ -7,18 +7,18 @@ _common_target_repository: &_common_target_repository
     origin: notebooks/
     ref: null
 
-whisper:
+flan-t5:
   source:
     paths:
     - expression: '*'
-      path: whisper/whisper-example.ipynb
+      path: natural-language-processing/Flan-T5-generative-inference.ipynb
       recursive: true
     repository:
       <<: *_gradient_huggingface
-      prefix: notebooks/
+      prefix: natural-language-processing/
   target:
     renames:
-      ./whisper-example.ipynb: ./whisper-ipu.ipynb
+      ./Flan-T5-generative-inference.ipynb: ./flan-t5-generative-inference-ipu.ipynb
     repository:
       <<: *_common_target_repository
       prefix: ./
