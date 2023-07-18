@@ -16,7 +16,7 @@ Graphcore's IPU (Intelligence Processing Unit) is a completely new kind of massi
 
 | Notebook | Framework | Type | Try for Free
 | ------------- | ------------- | ------------- | ------------- |
-| Flan-T5 is (probably) all you need | Hugging Face | Inference | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]()
+| Flan-T5 is (probably) all you need | Hugging Face | Inference | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://ipu.dev/4qFXZd)
 
 This notebook demonstrates using Flan-T5 for some common NLP tasks like text generation, sentiment analysis, advanced named entity recognition, question answering, intent classification, summarization and text classification.
 
