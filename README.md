@@ -7,9 +7,10 @@
 
 ![Flan-T5 header](flan-t5.png.webp)
 
-Flan-T5 is the fine-tuned version of the T5 language model. Compared to T5, Flan-T5 has been fine-tuned on more than 1,000 additional tasks. This makes Flan-T5 a more efficient, open-source alternative to models like GPT-3 and GPT-4.
+Flan-T5 is the fine-tuned version of the T5 language model. Compared to T5, Flan-T5 has been fine-tuned on more than 1,000 additional tasks. This makes Flan-T5 a more efficient, open-source alternative to large language models like GPT-3 and GPT-4.
 
-Graphcore's IPU (Intelligence Processing Unit) is a completely new kind of massively parallel processor to accelerate machine intelligence. Developers can access advanced, cost-efficient IPU compute on-demand in the cloud for building, fine-tuning and deploying AI models such as Flan-T5.
+Try running Flan-T5 for yourself on the IPU (Intelligence Processing Unit), a completely new kind of massively parallel processor designed to accelerate machine intelligence. Access advanced, cost-efficient IPU compute on demand in the cloud via Paperspace notebooks to build, fine-tune and deploy AI models such as Flan-T5.
+
 
 
 ## Flan-T5 notebooks powered by IPUs
@@ -18,9 +19,10 @@ Graphcore's IPU (Intelligence Processing Unit) is a completely new kind of massi
 | ------------- | ------------- | ------------- | ------------- |
 | Flan-T5 is (probably) all you need | Hugging Face | Inference | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://ipu.dev/4qFXZd)
 
-This notebook demonstrates using Flan-T5 for some common NLP tasks like text generation, sentiment analysis, advanced named entity recognition, question answering, intent classification, summarization and text classification.
+In this Paperspace notebook, you will learn how to use Flan-T5 for some common NLP tasks including text generation, sentiment analysis, advanced named entity recognition, question answering, intent classification, summarization and text classification.
 
-Note: If you have an existing Flan-T5 application based on Hugging Face, you need to change just two lines of code to be able to run on IPUs.
+Note: If you have an existing Flan-T5 application based on Hugging Face, you only need to change two lines of code to be able to run it on IPUs.
+
 
 ## Flan-T5 resources
 
