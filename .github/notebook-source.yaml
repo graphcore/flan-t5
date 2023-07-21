@@ -17,8 +17,6 @@ flan-t5:
       <<: *_gradient_huggingface
       prefix: natural-language-processing/
   target:
-    renames:
-      ./Flan-T5-generative-inference.ipynb: ./flan-t5-generative-inference-ipu.ipynb
     repository:
       <<: *_common_target_repository
       prefix: ./
