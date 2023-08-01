@@ -10,9 +10,8 @@ _common_target_repository: &_common_target_repository
 flan-t5:
   source:
     paths:
-    - expression: '*'
-      path: natural-language-processing/Flan-T5-generative-inference.ipynb
-      recursive: true
+    - path: natural-language-processing/Flan-T5-generative-inference.ipynb
+    - path: natural-language-processing/LICENSE
     repository:
       <<: *_gradient_huggingface
       prefix: natural-language-processing/
