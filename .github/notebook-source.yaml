@@ -12,6 +12,7 @@ flan-t5:
     paths:
     - path: natural-language-processing/Flan-T5-generative-inference.ipynb
     - path: natural-language-processing/LICENSE
+    - path: natural-language-processing/images/t5_vs_flan_t5.png
     repository:
       <<: *_gradient_huggingface
       prefix: natural-language-processing/
@@ -19,3 +20,4 @@ flan-t5:
     repository:
       <<: *_common_target_repository
       prefix: ./
+
