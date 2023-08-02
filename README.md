@@ -26,7 +26,6 @@ Note: If you have an existing Flan-T5 application based on Hugging Face, you onl
 
 ## Flan-T5 resources
 
-* [GitHub code](https://github.com/graphcore/Gradient-HuggingFace/tree/main/natural-language-processing)
 * Hugging Face models
   * [google/flan-t5-large](https://huggingface.co/google/flan-t5-large)
   * [google/flan-t5-xl](https://huggingface.co/google/flan-t5-xl)
@@ -41,3 +40,7 @@ To find out more about running Flan-T5 on IPUs, or speak to an expert, please fe
 Join our growing community and interact with AI experts, IPU developers and researchers. Hear the latest IPU news and get access to our newest models.
 
 [![Join our Slack Community](https://img.shields.io/badge/Slack-Join%20Graphcore's%20Community-blue?style=flat-square&logo=slack)](https://www.graphcore.ai/join-community)
+
+## Licensing
+
+The contents of this repository are made available according to the terms of the Apache 2.0 licence. See the included [LICENSE](LICENSE) file for details.
